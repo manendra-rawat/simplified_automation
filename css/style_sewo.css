@@ -1,0 +1,16 @@
+.header .navbar-default .navbar-nav>li>a:focus, .header .navbar-default .navbar-nav>li>a:hover {
+background-color: transparent;
+color: #00bfa9;
+}
+.main {
+background-color: #fff;
+border-top: 6px solid #685e6d ;
+margin: 0 0;
+}
+section {
+padding: 0;
+}
+.step7-container {
+margin-bottom: 10px;
+margin-left: 0;
+}
