@@ -112,6 +112,7 @@ body {
 }
 
 .form-control{
+	
 	color: #00bfa9;
 	border-radius: 5px;
 }
@@ -140,8 +141,10 @@ body {
 
 
 .form-label {
+
 	color: #00bfa9;
 }
+
 
 
 /* ------------------footer Start------------------*/
